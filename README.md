@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Arshia786-stack/Arshia786-stack/blob/main/Computer%20Science%20Engineer%20(1).png)
+![MasterHead](https://github.com/Arshia786-stack/Arshia786-stack/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arshia</h1>
 <h3 align="center">Tech Enthusiast, fueled by curiosity and driven by innovation!</h3>
 
