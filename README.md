@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/22228871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22228871" height="30" width="40" /></a>
 <a href="https://medium.com/@shaikarshiamubias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaikarshiamubias" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shaikarshiamubi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shaikarshiamubi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arshia786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshia786" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Arshiastacl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshia786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
