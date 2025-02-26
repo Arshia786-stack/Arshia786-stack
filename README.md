@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Arshia786-stack/portfolio)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently pursuing Masters in **University of Southern California**
 
-- 📫 How to reach me **shaikarshiamubias@gmail.com**
+- 📫 How to reach me **arshiamu@usc.edu**
 
 - 📄 Know about my experiences [https://github.com/Arshia786-stack/Resume](https://github.com/Arshia786-stack/Resume)
 
